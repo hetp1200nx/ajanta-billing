@@ -8,6 +8,6 @@
 //  browser) – useful for trying the app before connecting Supabase.
 // ---------------------------------------------------------------
 window.APP_CONFIG = {
-  SUPABASE_URL: '',
-  SUPABASE_ANON_KEY: ''
+  SUPABASE_URL: 'https://jajuzepexpgklmedgpiq.supabase.co',
+  SUPABASE_ANON_KEY: 'sb_publishable_7Edv2GhFrH1QYE5vmSC6-w_Lqyq_tMv'
 };
