@@ -14,7 +14,8 @@ create table if not exists app_members (
 
 -- >>> EDIT THESE E-MAILS BEFORE RUNNING <<<
 insert into app_members (email) values
-  ('ajantapaver@gmail.com')
+  ('ajantapaver@gmail.com'),
+  ('hetp1200@gmail.com')
 on conflict do nothing;
 
 create or replace function is_member() returns boolean
